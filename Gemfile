@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
+ruby '3.2.2'
 
 gemspec
 
-gem 'mongoid', '>= 5.0.1'
+gem 'mongoid', '>= 8.0', '< 9.0'
